@@ -1,0 +1,12 @@
+title: "The SemiFinals"
+baseURL: "https://thesemifinals.org"
+languageCode: "en-us"
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
+DefaultContentLanguage: en
+SectionPagesMenu: "main"
+
+languages:
+  en:
+    title: "The SemiFinals"
+    contentDir: "content/en"
