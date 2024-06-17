@@ -2,7 +2,7 @@
 title: "Weapons"
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 - [FAMAS](/weapons/famas/)
