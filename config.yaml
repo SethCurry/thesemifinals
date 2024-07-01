@@ -10,3 +10,8 @@ languages:
   en:
     title: "The SemiFinals"
     contentDir: "content/en"
+params:
+  ananke_socials:
+    - name: discord
+      label: Join Discord
+      url: https://discord.gg/FffAzXD2s9
