@@ -11,6 +11,8 @@ languages:
     title: "The SemiFinals"
     contentDir: "content/en"
 params:
+  mainSections:
+    - posts
   ananke_socials:
     - name: discord
       label: Join Discord
