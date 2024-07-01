@@ -12,7 +12,7 @@ languages:
     contentDir: "content/en"
 params:
   mainSections:
-    - posts
+    - blog
   ananke_socials:
     - name: discord
       label: Join Discord
